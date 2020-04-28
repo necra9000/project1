@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+    width: cover;
+    padding: 0;
+  }
+  img {
+    width: 1000px;
+  }
+  h1 {
+    color: white;
+    font-size: 50px;
+  }
+  h2 {
+    color: rgb(255, 255, 255);
+  }
+  p {
+    font-style: italic;
+    font-size: 18px;
+  }
+  #hero {
+    background-image: url('leaves.jpg'); height: 500px;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+  }
