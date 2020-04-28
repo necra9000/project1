@@ -11,7 +11,8 @@ body {
     font-size: 50px;
   }
   h2 {
-    color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
   }
   p {
     font-style: italic;
@@ -20,6 +21,7 @@ body {
   #hero {
     background-image: url('leaves.jpg'); height: 500px;
     background-size: cover;
-    padding: 0;
-    margin: 0;
+    padding-top: 230px !important;
+    margin: 0%;
+    text-align: center;
   }
