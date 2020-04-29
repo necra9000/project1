@@ -74,3 +74,6 @@ body {
     border: 0px;
     position: absolute;
   }
+#navbar {
+  border-bottom: 1px solid rgb(121, 120, 120);
+}
