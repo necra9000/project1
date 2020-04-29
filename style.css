@@ -2,6 +2,7 @@ body {
     background-color: #ffffff;
     width: cover;
     padding: 0;
+    margin-bottom: 24px;
   }
   img {
     width: 1000px;
@@ -22,7 +23,7 @@ body {
   }
   p {
     font-style: italic;
-    font-size: 18px;
+    font-size: 10px;
   }
 
 #hero {
@@ -48,9 +49,11 @@ body {
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
     border-bottom-left-radius: 0px;
-}
+  }
+
 /* Footer */
-.footer {
-  background-color: black;
-  padding: 30px;
-}
+  .container-fluid {
+    padding-top: 20px;
+    color: white;
+    background-color: black;
+  }
