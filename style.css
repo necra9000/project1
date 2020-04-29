@@ -1,3 +1,7 @@
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
 body {
     background-color: #ffffff;
     width: cover;
@@ -85,6 +89,6 @@ body {
   margin-left: 22px;
 }
 .card {
-  padding: 20px;
+  padding: 0px;
   border: white;
 }
