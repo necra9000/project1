@@ -74,6 +74,16 @@ body {
     border: 0px;
     position: absolute;
   }
+/* Navbar (except Homepagge) */
 #navbar {
   border-bottom: 1px solid rgb(121, 120, 120);
+}
+
+/* News */
+#news {
+  padding-top: 50px;
+  margin-left: 22px;
+}
+.card {
+  padding: 20px;
 }
