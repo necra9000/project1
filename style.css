@@ -89,12 +89,12 @@ body {
 
 /* News */
 #news {
-  padding-top: 50px;
+  padding-top: 0px;
   margin-left: 22px;
 }
 .card {
-  padding: 0px;
-  border: white;
+  padding: 10px;
+  border-color: white
 }
 /* Form */
 #heroform {
@@ -103,4 +103,9 @@ body {
   padding-top: 240px !important;
   margin: 0px;
   text-align: center;
+}
+/* Shop */
+#categorycard {
+  padding: 0px;
+  border-color: rgb(139, 138, 138)
 }
