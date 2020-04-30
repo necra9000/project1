@@ -4,9 +4,7 @@ a, a:hover, a:focus, a:active {
 }
 body {
     background-color: #ffffff;
-    width: cover;
     padding: 0;
-    padding-bottom: 50px;
   }
   img {
     width: 1000px;
@@ -14,26 +12,31 @@ body {
   h1 {
     color: white;
     font-size: 50px;
+    font-family: 'Cormorant Garamond', serif;
   }
   h2 {
     color: black;
     text-align: center;
+    font-family: 'Cormorant Garamond', serif;
   }
   h3 {
     color: black;
     text-align: center;
     padding-top: 50px;
     font-size: 45px;
+    font-family: 'Cormorant Garamond', serif;
   }
   h5 {
     color: black;
     font-size: 20px;
     padding-top: 15px;
+    font-family: 'Cormorant Garamond', serif;
   }
   p {
     font-style: italic;
     font-size: 15px;
     padding-bottom: 0px;
+    font-family: 'Cormorant Garamond', serif;
   }
 
   /* Homepage */
@@ -80,6 +83,7 @@ body {
     font-size: 10px;
     text-align: center;
     border: 0px;
+    margin-top: 20px;
     position: absolute;
   }
 /* Navbar (except Homepagge) */
