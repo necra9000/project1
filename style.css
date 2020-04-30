@@ -36,6 +36,7 @@ body {
     padding-bottom: 0px;
   }
 
+  /* Homepage */
 #hero {
     background-image: url('leaves.jpg'); height: 550px;
     background-size: cover;
@@ -65,6 +66,9 @@ body {
   padding-top: 30px;
   padding-left: 290px;
 }
+#ordernow {
+  text-align: center;
+}
 /* Footer */
 #footer {
     padding-top: 20px;
@@ -91,4 +95,12 @@ body {
 .card {
   padding: 0px;
   border: white;
+}
+/* Form */
+#heroform {
+  background-image: url('sprout.jpg'); height: 550px;
+  background-size: cover;
+  padding-top: 240px !important;
+  margin: 0px;
+  text-align: center;
 }
